@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on Front-end
 - 🌱 I’m currently learning Javascript
+- gabrielvictor8113@gmail.com
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -20,13 +21,3 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 </div>
   
-  ##
- 
-<div> 
-
- <a href="https://discord.gg/gabriel811314#4009 " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNqKlhtnTVVxsDnrzDbKKMvBlmVVmrmLTPbtRxQWlVDlfFnlXmwkxbNGHWFzpVlHtfRTgB"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-
- 
-</div>
